@@ -1,1 +1,1 @@
-GLAB 330.2.1  Basic Example for Correlation Coefficient and Covariance
+Introduction to Statistics Analysis and Basic Statistics for Data Analysis
